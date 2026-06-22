@@ -73,6 +73,8 @@ UTHM has migrated most of its academic, administrative, and support systems to a
 
 ## 📂 Repository Structure
 
+```
+
 .
 ├── Articles/ # Reference papers (EA in higher education)
 ├── Diagrams/
@@ -90,6 +92,7 @@ UTHM has migrated most of its academic, administrative, and support systems to a
 ├── Room Allocation Engine.pdf # Engine design document
 └── README.md
 
+```
 
 ---
 
@@ -113,18 +116,6 @@ UTHM has migrated most of its academic, administrative, and support systems to a
 
 **What I'd do differently.** Narrow scope earlier and validate the allocation rules and data model up front — treating each system as part of a larger, well-aligned enterprise architecture rather than building in isolation.
 
----
-
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| **Muhammad Afiq Danish bin Mohd Hazni** (A23CS0118) | Team Leader |
-| Lingqian | Member |
-| Nabilah | Member |
-| Najma Shakirah | Member |
-
-**Lecturer:** Dr. Aryati binti Bakri · **Section:** 01
 
 ---
 
