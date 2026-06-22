@@ -74,7 +74,6 @@ UTHM has migrated most of its academic, administrative, and support systems to a
 ## 📂 Repository Structure
 
 ```
-
 .
 ├── Articles/ # Reference papers (EA in higher education)
 ├── Diagrams/
@@ -91,7 +90,6 @@ UTHM has migrated most of its academic, administrative, and support systems to a
 ├── SysDataVerse_AfiqDanish.pdf # Full project report
 ├── Room Allocation Engine.pdf # Engine design document
 └── README.md
-
 ```
 
 ---
