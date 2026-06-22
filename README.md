@@ -86,7 +86,6 @@ UTHM has migrated most of its academic, administrative, and support systems to a
 │ ├── EA as-is.png
 │ ├── EA to-be.png
 │ ├── EA Presentation (SysDataverse).pdf
-│ └── EA Presentation Scripts.pdf
 ├── SysDataVerse_AfiqDanish.pdf # Full project report
 ├── Room Allocation Engine.pdf # Engine design document
 └── README.md
